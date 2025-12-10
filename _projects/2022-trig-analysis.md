@@ -1,6 +1,6 @@
 ---
 layout: project
-title: MAE 3070 Project
+title: MAE 3270 Project
 description: Class project with torque wrench
 technologies: [CAD & ANSYS]
 image: /assets/images/Torque_Wrench_sketch.png
