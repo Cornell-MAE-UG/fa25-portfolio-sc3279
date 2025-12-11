@@ -1,9 +1,8 @@
 ---
 layout: project
-title: Spaceship Design
-description: Just a spaceship that I designed
-technologies: [SolidWorks, Machining]
-image: /assets/images/spaceship-design.jpg
+title: MAE 3260 Final Group Work
+description: Dissecting a drill
+image: /assets/images/drill.JPG
 ---
 
 
