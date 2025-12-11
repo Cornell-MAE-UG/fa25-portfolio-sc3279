@@ -30,7 +30,7 @@ In this section, I analyze how the drill responds when an external disturbance t
 The disturbance transfer function shows that the drill behaves as a first-order system whose speed drops proportionally to the applied load torque. In an open loop, this term directly determines both the transient response and the steady-state error, meaning any increase in T_L ​ produces a persistent decrease in speed. 
 
 When feedback is added, the disturbance path becomes
-<img src="/assets/images/disturbance_path.png"
+<img src="/assets/images/disturbance.png"
      alt="Gd(s)/(1 + C(s)Gu(s)) TL(s)"
      style="height:32px; vertical-align:middle;">
 As this loop gain increases, the disturbance sensitivity decreases, indicating that the controller should restore the speed more quickly and with smaller steady-state deviation. 
